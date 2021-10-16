@@ -83,7 +83,7 @@ z-index: 999;
 .main-menu ul li a {
   background: #383E4C none repeat scroll 0 0;
   border: 1px solid #646d7c;
-  color: #fff;
+  color: rgb(111, 159, 231);
   font-size: 20px;
   padding: 5px 20px;
   text-decoration: none;
